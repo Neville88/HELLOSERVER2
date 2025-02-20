@@ -1,0 +1,7 @@
+[
+    {
+        "key": "space",
+        "command": "-any.custom.command",
+        "when": "editorTextFocus"
+    }
+]

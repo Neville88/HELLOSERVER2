@@ -1,0 +1,27 @@
+{
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.acceptSelectedSuggestionOnEnter": "on",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.wordBasedSuggestions": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "files.autoSave": "off",
+    "editor.formatOnSave": false,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/dist/**": true
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    },
+    "files.useExperimentalFileWatcher": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.suggest.insertMode": "replace"
+}
