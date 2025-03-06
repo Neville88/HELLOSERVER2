@@ -2,7 +2,7 @@
     "editor.acceptSuggestionOnEnter": "on",
     "editor.acceptSelectedSuggestionOnEnter": "on",
     "editor.acceptSuggestionOnCommitCharacter": true,
-    "editor.wordBasedSuggestions": true,
+    "editor.wordBasedSuggestions": "matchingDocuments",
     "editor.quickSuggestions": {
         "other": true,
         "comments": false,
